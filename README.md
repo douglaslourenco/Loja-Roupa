@@ -1,4 +1,4 @@
-# Loja-Roupa
+# Loja de Roupa
 Projeto loja de roupa
 <br>
 Um grande desafio e ao mesmo tempo prazeroso com o resultado do meu desenvolvimento
